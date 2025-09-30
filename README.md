@@ -1,5 +1,5 @@
 ###
-<p align="left">👋 David <img align="right" height="300" src="https://th.bing.com/th/id/R.850477fed08bfe98598082bcd309ce70?rik=9l9aIUrNeKA%2fPw&pid=ImgRaw&r=0"  /><br><br>Building cross-platform experiences with Flutter & Dart. Crafting web solutions with JavaScript, React & Next.js.<br><br>I think logically. I solve problems. I learn constantly.<br><br>When I'm not coding, I'm exploring music or diving into new tech. My best work happens with headphones on.<br><br>Let's connect and build something meaningful.</p>
+<p align="left">👋 Hey i'm David <img align="right" height="300" src="https://th.bing.com/th/id/R.850477fed08bfe98598082bcd309ce70?rik=9l9aIUrNeKA%2fPw&pid=ImgRaw&r=0"  /><br><br>Building cross-platform experiences with Flutter & Dart. Crafting web solutions with JavaScript, React & Next.js.<br><br>I think logically. I solve problems. I learn constantly.<br><br>When I'm not coding, I'm exploring music or diving into new tech. My best work happens with headphones on.<br><br>Let's connect and build something meaningful.</p>
 
 ###
 
